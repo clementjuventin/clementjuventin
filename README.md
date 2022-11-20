@@ -24,8 +24,8 @@
 </samp>
 
 <p align="center">
-  <samp> --- Year 2022 --- </samp>
-  <details>
+  <samp><b>--- Year 2022 ---</b></samp>
+  <details align="center">
     <summary>
       <b>
         <samp>ETH Lisbon </samp>
@@ -37,10 +37,10 @@
       We won the <b>Main track</b> (for being in the top 10 projects), the <b>honorable mention</b> from <b><a href="https://metamask.io/">Metamask</a></b> and the second place for the best use of <b>computation over data</b> from <b><a href="https://filecoin.io/">Filecoin</a></b> and <b><a href="https://ipfs.tech/">IPFS</a></b>.<br/>
       Here are the repositories of the project: <br/>
       - <a href="https://github.com/clementjuventin/safecheck-server">Backend</a> <br/>
-      - <a href="https://github.com/clementjuventin/safecheck-monorepo">Frontend and Metamask Snaps</a> <br/>
+      - <a href="https://github.com/clementjuventin/safecheck-monorepo">Frontend and Metamask Snaps</a> <br/><br/>
       </samp>
   </details>
-  <details>
+  <details align="center">
     <summary>
       <b>
         <samp>Pandora bot</samp>
@@ -49,10 +49,22 @@
     <samp>
   </samp>
   </details>
-  <details>
+  <details align="center">
     <summary>
       <b>
         <samp>Onlydust Contributor</samp>
+      </b>
+    </summary>
+    <samp>
+  </samp>
+  </details>
+</p>
+<p align="center">
+  <samp><b>--- Year 2021 ---</b></samp>
+  <details align="center">
+    <summary>
+      <b>
+        <samp>NFT minting website</samp>
       </b>
     </summary>
     <samp>
