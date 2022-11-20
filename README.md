@@ -47,6 +47,8 @@
       </b>
     </summary>
     <samp>
+    <b>Pandora bot</b> was an automation tool for the <b><a href="https://aptoslabs.com/">Aptos</a></b> blockchain.<br/>
+    It was made in Golang. It was able to automatically transfert, mint, list or unlist tokens.<br/>
   </samp>
   </details>
   <details align="center">
@@ -56,6 +58,7 @@
       </b>
     </summary>
     <samp>
+    I contributed on the <b><a href="https://www.onlydust.xyz/">Onlydust</a></b> platform to develop the tools available on the <b><a href="https://starknet.io/">Starknet</a></b> ecosystem.<br/>
   </samp>
   </details>
 </p>
@@ -68,6 +71,9 @@
       </b>
     </summary>
     <samp>
+    I built everything needed to mint NFTS from a website.<br/>
+    Here is the repository:<br/>
+    - <a href="https://github.com/clementjuventin/NFT-Minting-Website-x-Smart-contract">NFT minting website</a><br/>
   </samp>
   </details>
 </p>
