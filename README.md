@@ -37,7 +37,7 @@
       We won the <b>Main track</b> (for being in the top 10 projects), the <b>honorable mention</b> from <b><a href="https://metamask.io/">Metamask</a></b> and the second place for the best use of <b>computation over data</b> from <b><a href="https://filecoin.io/">Filecoin</a></b> and <b><a href="https://ipfs.tech/">IPFS</a></b>.<br/>
       Here are the repositories of the project: <br/>
       - <a href="https://github.com/clementjuventin/safecheck-server">Backend</a> <br/>
-      - <a href="https://github.com/clementjuventin/safecheck-monorepo">Frontend and Metamask Snaps</a> <br/><br/>
+      - <a href="https://github.com/clementjuventin/safecheck-monorepo">Frontend and Metamask Snaps</a><br/>
       </samp>
   </details>
   <details align="center">
