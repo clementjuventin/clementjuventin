@@ -115,4 +115,4 @@
   </a>
 </p>
 
-### 📸 <samp> Updated the 06/22/2023 </samp>
+### 📸 Updated the 06/22/2023 
