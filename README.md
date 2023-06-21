@@ -8,7 +8,7 @@
     </b> - Software engineer soon to graduate from 
     <b>
     <a rel="nofollow noopener noreferrer" target="_blank" href="https://ensimag.grenoble-inp.fr/">ENSIMAG</a>
-    </b>(France) <br>
+    </b>(France) </br>
   </samp>
 </p>
 
@@ -22,7 +22,33 @@
 <samp>
     As a junior developer and a student, I hope this list will grow in the future. <br/>
 </samp>
-
+</br>
+<p align="center">
+  <samp><b>--- Year 2023 ---</b></samp>
+   <details align="center">
+    <summary>
+      <b>
+        <samp>ETH Prague</samp>
+      </b>
+    </summary>
+    <samp>
+      <b><a href="https://ethprague.com/">ETH Prague</a></b> was a superb Hackathon.
+      I worked on designing the smart contract and integrating TheGraph's technology. Unfortunately, we're leaving without a jury citation, but this hackathon was an incredible human experience and I             learned a lot, so for me, it was a real success.<br/>
+      See all my hackathons projects <a href="https://github.com/clementjuventin/Hackathon-Projects">here</a>.
+      </samp>
+  </details>
+  <details align="center">
+    <summary>
+      <b>
+        <samp>Cedelabs</samp>
+      </b>
+    </summary>
+    <samp>
+      I joined the Paris-based startup <a href="https://cedelabs.io/">Cedelabs</a> as an intern full-stack developer. <br/>
+      For me, this job is an opportunity to get my feet firmly planted in the WEB3 ecosystem. I also intend to acquire a range of cross-disciplinary skills before specializing in a particular field.
+      </samp>
+  </details>
+</p>
 <p align="center">
   <samp><b>--- Year 2022 ---</b></samp>
   <details align="center">
@@ -34,10 +60,8 @@
     <samp>
       <b><a href="https://www.ethlisbon.org/">ETH Lisbon</a></b> was an Hackathon organized by the <b><a href="https://www.ethereum.org/">Ethereum Foundation</a></b> in Lisbon.<br/>
       I was part of a team of 4 people working on <b>SafeCheck</b>, a security tool to simulate transactions and study smart contracts.<br/> 
-      We won the <b>Main track</b> (for being in the top 10 projects), the <b>honorable mention</b> from <b><a href="https://metamask.io/">Metamask</a></b> and the second place for the best use of <b>computation over data</b> from <b><a href="https://filecoin.io/">Filecoin</a></b> and <b><a href="https://ipfs.tech/">IPFS</a></b>.<br/>
-      Here are the repositories of the project: <br/>
-      - <a href="https://github.com/clementjuventin/safecheck-server">Backend</a> <br/>
-      - <a href="https://github.com/clementjuventin/safecheck-monorepo">Frontend and Metamask Snaps</a><br/>
+      We won the <b>Main stage</b> (for being in the top 10 projects), the <b>honorable mention</b> from <b><a href="https://metamask.io/">Metamask</a></b> and the second place for the best use of <b>computation over data</b> from <b><a href="https://filecoin.io/">Filecoin</a></b> and <b><a href="https://ipfs.tech/">IPFS</a></b>.<br/>
+      See all my hackathons projects <a href="https://github.com/clementjuventin/Hackathon-Projects">here</a>.
       </samp>
   </details>
   <details align="center">
@@ -48,7 +72,7 @@
     </summary>
     <samp>
     <b>Pandora bot</b> was an automation tool for the <b><a href="https://aptoslabs.com/">Aptos</a></b> blockchain.<br/>
-    It was made in Golang. It was able to automatically transfert, mint, list or unlist tokens.<br/>
+    It was made in Golang. It could transfer, mint, list, or unlist tokens automatically.<br/>
   </samp>
   </details>
   <details align="center">
@@ -73,7 +97,7 @@
     <samp>
     I built everything needed to mint NFTS from a website.<br/>
     Here is the repository:<br/>
-    - <a href="https://github.com/clementjuventin/NFT-Minting-Website-x-Smart-contract">NFT minting website</a><br/>
+    - <a href="https://github.com/clementjuventin/NFT-Minting-Website-x-Smart-contract">NFT minting website (Deleted)</a><br/>
   </samp>
   </details>
 </p>
