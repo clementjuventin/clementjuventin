@@ -6,9 +6,6 @@
   </samp>
 </p>
 <p align="center">
-	🙏 quant dev or nothing 🙏
-</p>
-<p align="center">
 <a href="mailto:clementjuventin@gmail.com">
     <img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
